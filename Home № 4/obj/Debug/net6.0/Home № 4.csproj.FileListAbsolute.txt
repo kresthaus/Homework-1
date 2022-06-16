@@ -1,0 +1,15 @@
+C:\Users\krest\Desktop\Homework 1\Home № 4\bin\Debug\net6.0\Home № 4.exe
+C:\Users\krest\Desktop\Homework 1\Home № 4\bin\Debug\net6.0\Home № 4.deps.json
+C:\Users\krest\Desktop\Homework 1\Home № 4\bin\Debug\net6.0\Home № 4.runtimeconfig.json
+C:\Users\krest\Desktop\Homework 1\Home № 4\bin\Debug\net6.0\Home № 4.dll
+C:\Users\krest\Desktop\Homework 1\Home № 4\bin\Debug\net6.0\Home № 4.pdb
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.csproj.AssemblyReference.cache
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.AssemblyInfoInputs.cache
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.AssemblyInfo.cs
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.csproj.CoreCompileInputs.cache
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.dll
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\refint\Home № 4.dll
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.pdb
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\Home № 4.genruntimeconfig.cache
+C:\Users\krest\Desktop\Homework 1\Home № 4\obj\Debug\net6.0\ref\Home № 4.dll
